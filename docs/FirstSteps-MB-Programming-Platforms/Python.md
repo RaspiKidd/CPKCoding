@@ -16,7 +16,7 @@ Python for micro:bit (MicroPython) offers a text-based programming environment f
 
 ## Technical Requirements
 
-- **Web Editor**: [python.microbit.org](python.microbit.org) provides an online coding environment
+- **Web Editor**: [python.microbit.org](https://python.microbit.org) provides an online coding environment
 - **Text Skills**: Requires typing ability and attention to syntax details
 - **File Management**: Understanding of saving, loading, and transferring Python files
 - **Memory Awareness**: Consideration of the micro:bit's limited memory capacity

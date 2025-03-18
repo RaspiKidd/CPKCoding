@@ -16,7 +16,7 @@ MakeCode is the official Microsoft-developed programming environment specificall
   
 ## Technical Requirements
 
-- **Web Access**: [makecode.microbit.org](makecode.microbit.org) accessible via any modern web browser
+- **Web Access**: [makecode.microbit.org](https://makecode.microbit.org) accessible via any modern web browser
 - **No Account Required**: Immediate coding without registration. Though setting up accounts allows participants to save projects and carry them on at home or in the next session.
 - **Cross-Platform**: Works on Windows, Mac, Chromebooks, and tablets
 - **Minimal Bandwidth**: Functional even on modest library internet connections

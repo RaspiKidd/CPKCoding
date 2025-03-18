@@ -24,6 +24,6 @@ EduBlocks provides a middle-ground between block-based and text-based programmin
 
 - **Transition Tool**: Specifically designed to bridge the gap between blocks and text
 - **Visual Python**: Block representation follows Python syntax patterns
-- **Web-Based Access**: Available through [app.edublocks.org](app.edublocks.org)
+- **Web-Based Access**: Available through [app.edublocks.org](https://app.edublocks.org)
 - **Growing Resource Base**: Increasing collection of tutorials and project examples
 - **Compatibility**: Works with both V1 and V2 micro:bit hardware
