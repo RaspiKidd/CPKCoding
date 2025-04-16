@@ -44,8 +44,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-         /*editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',*/
+         editUrl:
+            'https://github.com/RaspiKidd/CPKCoding/tree/master/'
         },
         /*blog: {
           showReadingTime: true,
@@ -85,6 +85,12 @@ const config: Config = {
           position: 'left',
           label: 'Resources',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'scratchSidebar',
+          position: 'left',
+          label: 'Scratch',
+        },
         /*{to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
@@ -101,6 +107,10 @@ const config: Config = {
           items: [
             {
               label: 'Resources',
+              to: '/docs/intro',
+            },
+            {
+              label: 'micro:bit',
               to: '/docs/intro',
             },
           ],
