@@ -6,9 +6,10 @@ sidebar_position: 3
 
 ## Physical Space Organisation
 
+- **Zoning Strategy**: Clearly define areas for varied skill levels and project types to ensure inclusivity and accessibility.
 - **Zone System**: Designated areas for different experience levels and project types
 - **Resource Stations**: Self-service areas with levelled materials and reference guides
-- **Collaboration Spaces**: Tables specifically for mixed-ability collaborative work
+- **Collaboration Spaces**: Tables specifically designed for mixed-ability collaborative work
 - **Showcase Area**: Space for displaying exemplary projects from all skill levels
 - **Quiet Corner**: Low-stimulation space for focused work on complex problems
 
