@@ -81,15 +81,26 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'codeClubSidebar',
           position: 'left',
-          label: 'Resources',
+          label: 'Code Club Resources',
         },
         {
           type: 'docSidebar',
           sidebarId: 'scratchSidebar',
           position: 'left',
-          label: 'Scratch',
+          label: 'Scratch Resources',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'microbitSidebar',
+          position: 'left',
+          label: 'micro:bit Resources',
+        },
+        {
+          to: '/glossary',
+          label: 'Glossary',
+          position: 'left',
         },
         /*{to: '/blog', label: 'Blog', position: 'left'},
         {
